@@ -9,7 +9,7 @@ blocks:
         url: "./ngfw/v18/about.md"
         title: "Ideco NGFW"
         text: "Какое-то описание."
-        icon: "./_assets/image.avif"
+        icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
         buttons:
         - text: 'v18'
           theme: 'outlined'
@@ -21,7 +21,7 @@ blocks:
         url: "./cc/v18/about.md"
         title: "Ideco Center"
         text: "Какое-то описание."
-        icon: "./_assets/image.avif"
+        icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
         buttons:
         - text: 'v18'
           theme: 'outlined'
@@ -33,7 +33,7 @@ blocks:
         url: "./vpp/v18/about.md"
         title: "Ideco NGFW VPP"
         text: "Какое-то описание."
-        icon: "./_assets/image.avif"
+        icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
         buttons:
         - text: 'v18'
           theme: 'outlined'
@@ -45,12 +45,12 @@ blocks:
         url: "./my-ideco/about.md"
         title: "MY.IDECO"
         text: "Какое-то описание."
-        icon: "./_assets/image.avif"
+        icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
       - type: "basic-card"
         url: "./faq/v18/about.md"
         title: "FAQ"
         text: "Какое-то описание."
-        icon: "./_assets/image.avif"
+        icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
         buttons:
         - text: 'v18'
           theme: 'outlined'
@@ -67,7 +67,7 @@ blocks:
           title: "Создание пользовательских и корневых сертификатов"
         media:
           youtube: "https://rutube.ru/video/ed4bfaff00f6c0be4518d01d6cff0c38/"
-          previewImg: "./_assets/preview.png"
+          previewImg: "_images/preview.png"
         metaInfo:
           - "one"
           - "two"
@@ -79,7 +79,7 @@ blocks:
           text: "Dolor sit amet"
         media:
           youtube: "https://rutube.ru/video/14e677a43b85169ef770d794b6aa8536/"
-          previewImg: "./_assets/preview.png"
+          previewImg: "_images/preview.png"
         metaInfo:
           - "one"
           - "two"
@@ -91,7 +91,7 @@ blocks:
           text: "Dolor sit amet"
         media:
           youtube: "https://rutube.ru/video/0fe9c2ba646f21fbe3ef3cbc7d052db0/"
-          previewImg: "./_assets/preview.png"
+          previewImg: "_images/preview.png"
         metaInfo:
           - "one"
           - "two"
@@ -103,7 +103,7 @@ blocks:
           text: "Dolor sit amet"
         media:
           youtube: "https://rutube.ru/video/5d3a7fa491a7bbc29b11b37cfdf1d334/"
-          previewImg: "./_assets/preview.png"
+          previewImg: "_images/preview.png"
         metaInfo:
           - "one"
           - "two"

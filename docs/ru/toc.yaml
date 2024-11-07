@@ -3,10 +3,10 @@ navigation:
   logo:
     url: "index.html"
     dark:
-      icon: "./_assets/image.avif"
+      icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
       text: "Ideco"
     light:
-      icon: "./_assets/image.avif"
+      icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
       text: "Ideco"
   header:
     rightItems:
