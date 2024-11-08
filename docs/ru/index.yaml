@@ -6,58 +6,30 @@ blocks:
       text: "Документация на продукты Ideco"
     children:
       - type: "basic-card"
-        url: "./ngfw/v18/about.md"
+        url: "./ngfw/about.md"
         title: "Ideco NGFW"
         text: "Какое-то описание."
         icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
-        buttons:
-        - text: 'v18'
-          theme: 'outlined'
-          url: './ngfw/v18/about.md'
-        - text: 'v17'
-          theme: 'outlined'
-          url: './ngfw/v17/about.md'
       - type: "basic-card"
-        url: "./cc/v18/about.md"
+        url: "./cc/about.md"
         title: "Ideco Center"
         text: "Какое-то описание."
         icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
-        buttons:
-        - text: 'v18'
-          theme: 'outlined'
-          url: './cc/v18/about.md'
-        - text: 'v17'
-          theme: 'outlined'
-          url: './cc/v17/about.md'
       - type: "basic-card"
-        url: "./vpp/v18/about.md"
+        url: "./vpp/about.md"
         title: "Ideco NGFW VPP"
         text: "Какое-то описание."
         icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
-        buttons:
-        - text: 'v18'
-          theme: 'outlined'
-          url: './vpp/v18/about.md'
-        - text: 'v17'
-          theme: 'outlined'
-          url: './vpp/v17/about.md'
       - type: "basic-card"
         url: "./my-ideco/about.md"
         title: "MY.IDECO"
         text: "Какое-то описание."
         icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
       - type: "basic-card"
-        url: "./faq/v18/about.md"
+        url: "./faq/about.md"
         title: "FAQ"
         text: "Какое-то описание."
         icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
-        buttons:
-        - text: 'v18'
-          theme: 'outlined'
-          url: './faq/v18/about.md'
-        - text: 'v17'
-          theme: 'outlined'
-          url: './faq/v17/about.md'
     autoplay: 5000
   - type: "card-layout-block"
     title: "Видеоинструкции"

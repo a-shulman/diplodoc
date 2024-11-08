@@ -10,10 +10,10 @@ navigation:
       text: "Ideco"
   header:
     rightItems:
-      - type: controls
       - type: 'link'
         text: 'Сайт Ideco'
         url: 'https://ideco.ru/'
         arrow: true
         urlTitle: 'Официальный сайт компании Ideco'
+      - type: controls
 

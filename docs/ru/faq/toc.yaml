@@ -1,50 +1,41 @@
-title: Ideco NGFW VPP
+title: FAQ
 href: about.md
 navigation:
   logo:
-    url: "../../index.html"
+    url: "../index.html"
     dark:
-      icon: "../../_assets/image.avif"
-      text: "Ideco NGFW VPP"
+      icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
+      text: "FAQ"
     light:
-      icon: "../../_assets/image.avif"
-      text: "Ideco NGFW VPP"
+      icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
+      text: "FAQ"
   header:
     leftItems:
-      - text: 'v18'
-        type: 'dropdown'
-        items:
-          - text: 'v18'
-            url: './about.html'
-            type: 'link'
-          - text: 'v17'
-            url: '../v18/about.html'
-            type: 'link'
       - type: "link"
         text: "NGFW"
-        url: "../../ngfw/v18/about.html"
+        url: "../ngfw/about.html"
       - type: "link"
         text: "Ideco Center"
-        url: "../../cc/v18/about.html"
+        url: "../cc/about.html"
       - type: "link"
         text: "NGFW VPP"
-        url: "./about.html"
+        url: "../vpp/about.html"
       - type: "link"
         text: "MY.IDECO"
-        url: "../../my-ideco/about.html"
+        url: "../my-ideco/about.html"
       - type: "link"
         text: "FAQ"
-        url: "../../faq/v18/about.html"
+        url: "about.html"
     rightItems:
       - text: 'Скачать PDF'
         type: 'link'
         url: 'ru/contribution'
-      - type: controls
       - type: 'link'
         text: 'Сайт Ideco'
         url: 'https://ideco.ru/'
         arrow: true
         urlTitle: 'Официальный сайт компании Ideco'
+      - type: controls
 items: 
   - name: About
     href: about.md
